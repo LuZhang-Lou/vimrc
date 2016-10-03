@@ -8,10 +8,8 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'Valloric/YouCompleteMe'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'vim-airline/vim-airline'
-" added nerdtree
 Plugin 'scrooloose/nerdtree'
 
 " All of your Plugins must be added before the following line
